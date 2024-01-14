@@ -1,0 +1,1 @@
+// NaN is a number that is not a legal number
